@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "UdemyPruebas", "UdemyPruebas\UdemyPruebas.ssmssqlproj", "{CEE86543-DEBA-4D1B-BC2D-E293A4CBB3CB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "StackOverflow", "StackOverflow\StackOverflow.ssmssqlproj", "{F9C19FDC-483B-4EBA-8CB6-52510D1E95C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEE86543-DEBA-4D1B-BC2D-E293A4CBB3CB}.Default|Default.ActiveCfg = Default
+		{984E087C-16B3-490D-87A6-E3D9E8FCF4E7}.Default|Default.ActiveCfg = Default
+		{F9C19FDC-483B-4EBA-8CB6-52510D1E95C5}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4525736A-3EBF-449C-A01C-B6D84D74EDA4}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="UdemyPruebas">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-TQPEOLM:DESKTOP-TQPEOLM\JOHAN">
+          <Created>2020-01-25T21:51:20.3126862-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-TQPEOLM</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="BackupDataBase.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>BackupDataBase.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Practica2.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Practica2.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Practica3.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Practica3.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Practica4.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Practica4.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryAgregado.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryAgregado.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryDatos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryDatos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QueryEditTables.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QueryEditTables.sql</FullPath>
+        </FileNode>
+        <FileNode Name="QuerySaludo.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>QuerySaludo.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLCondicionales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLCondicionales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLformatosFecha.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLformatosFecha.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLfunciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLfunciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLinnerJoin.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLinnerJoin.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLoperaciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLoperaciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLOperators.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLOperators.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLprocedures.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLprocedures.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLrolesyUsuarios.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLrolesyUsuarios.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLsentencias.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLsentencias.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SQLtablasTemporales.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SQLtablasTemporales.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Transacciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Transacciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Triggers.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Triggers.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Vistas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Vistas.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>

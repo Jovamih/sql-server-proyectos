@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="StackOverflow">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-TQPEOLM:DESKTOP-TQPEOLM\JOHAN">
+          <Created>2020-02-11T17:31:21.5873397-05:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-TQPEOLM</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="Configuraciones.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Configuraciones.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Enmascaramiento.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Enmascaramiento.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Esquemas.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Esquemas.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Merge.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Merge.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Miscelanea.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Miscelanea.sql</FullPath>
+        </FileNode>
+        <FileNode Name="OverPartition.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>OverPartition.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Pivote.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Pivote.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Secuencias.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Secuencias.sql</FullPath>
+        </FileNode>
+        <FileNode Name="TransacionesAdvanced.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-TQPEOLM:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-TQPEOLM</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>TransacionesAdvanced.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
